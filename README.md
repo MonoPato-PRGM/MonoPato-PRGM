@@ -1,33 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
-  <metadata>
-    <id>Ardalis.MinimalClean.Template</id>
-    <title>ASP.NET Minimal Clean Architecture Solution</title>
-    <version>1.1.1</version>
-    <authors>Steve Smith</authors>
-    <description>
-      A simplified Clean Architecture template using vertical slice architecture in a single project. 
-      Perfect for MVPs, smaller applications, or teams wanting architectural guidance without multi-project complexity.
-      Features Domain-Driven Design patterns, FastEndpoints, Entity Framework Core, and optional Aspire support.
-      Built with .NET 10 and C#.
-    </description>
-    <language>en-US</language>
-    <license type="expression">MIT</license>
-    <projectUrl>https://github.com/ardalis/CleanArchitecture</projectUrl>
-    <releaseNotes>
-      * Add NsDepCop to analyze dependencies and ensure clean architecture boundaries.
-      * Update package versions to latest stable releases.
-    </releaseNotes>
-    <packageTypes>
-      <packageType name="Template" />
-    </packageTypes>
-    <tags>Web ASP.NET "Clean Architecture" "Vertical Slice" minimal ddd domain-driven-design clean-architecture ardalis FastEndpoints</tags>
-    <icon>./content/icon.png</icon>
-    <readme>README.md</readme>
-  </metadata>
-  <files>
-    <file src="MinimalClean\**" target="content" exclude="**\bin\**;**\obj\**;**\.git\**;**\.vs\**;**\.vscode\**;**\*.user" />
-    <file src="README.md" />
-    <file src="icon.png" target="content" />
-  </files>
-</package>
+# ¡Hola! Soy MonoPato 👋 🦆🐵
+
+Estudiante de **2.º año de Ingeniería Informática** en la **Universidad de Burgos (UBU)**. Apasionado por entender cómo funcionan los sistemas por dentro, optimizar código y construir proyectos paso a paso.
+
+---
+
+### 💻 Stack & Tecnologías
+
+**Lenguajes & Bases de Datos:**
+- ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) Fundamentos sólidos, memoria dinámica y estructuras de datos.
+- ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white) Dando los primeros pasos en computación paralela y GPU.
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) En pleno aprendizaje de Programación Orientada a Objetos.
+- ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) Consultas, diseño relacional y gestión de bases de datos.
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) Maquetación web para proyectos sencillos y funcionales.
+
+---
+
+### 🚀 Actualmente enfocado en:
+- Profundizar en arquitectura de software y POO mediante Java.
+- Experimentar con CUDA para acelerar cálculos con C.
+- Consolidar buenas prácticas con Git y flujo de trabajo en equipo.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MonoPato&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonoPato&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" width="45%" />
+</div>
+
+---
+
+<p align="center">
+  <i>"Compilando ideas, un punto y coma a la vez."</i>
+</p>
