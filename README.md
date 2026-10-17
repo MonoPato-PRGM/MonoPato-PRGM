@@ -1,13 +1,33 @@
-## Hi there 👋
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Ardalis.MinimalClean.Template</id>
+    <title>ASP.NET Minimal Clean Architecture Solution</title>
+    <version>1.1.1</version>
+    <authors>Steve Smith</authors>
+    <description>
+      A simplified Clean Architecture template using vertical slice architecture in a single project. 
+      Perfect for MVPs, smaller applications, or teams wanting architectural guidance without multi-project complexity.
+      Features Domain-Driven Design patterns, FastEndpoints, Entity Framework Core, and optional Aspire support.
+      Built with .NET 10 and C#.
+    </description>
+    <language>en-US</language>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/ardalis/CleanArchitecture</projectUrl>
+    <releaseNotes>
+      * Add NsDepCop to analyze dependencies and ensure clean architecture boundaries.
+      * Update package versions to latest stable releases.
+    </releaseNotes>
+    <packageTypes>
+      <packageType name="Template" />
+    </packageTypes>
+    <tags>Web ASP.NET "Clean Architecture" "Vertical Slice" minimal ddd domain-driven-design clean-architecture ardalis FastEndpoints</tags>
+    <icon>./content/icon.png</icon>
+    <readme>README.md</readme>
+  </metadata>
+  <files>
+    <file src="MinimalClean\**" target="content" exclude="**\bin\**;**\obj\**;**\.git\**;**\.vs\**;**\.vscode\**;**\*.user" />
+    <file src="README.md" />
+    <file src="icon.png" target="content" />
+  </files>
+</package>
