@@ -26,6 +26,6 @@ Actualmente enfocado en asimilar bien los fundamentos, entender cómo se conecta
 
 
 
-
+---
 
 > *«Aprender para comprender.»*  
