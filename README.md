@@ -20,11 +20,11 @@
 
 ### `// OBJECTIVE`
 
-> Dominar los fundamentos de la computación, entender cómo interactúa el software con el hardware y ganar experiencia compilación a compilación.
+> Master the fundamentals of computing, understand how software interacts with hardware, and gain experience one compilation at a time.
 
 ---
 
-### `// UNLOCKED · LO QUE YA MANEJO`
+### `// UNLOCKED · WHAT I ALREADY HANDLE`
 
 <div align="center">
 
@@ -34,13 +34,13 @@
 
 </div>
 
-> **C (Base de 1º de carrera)** — Sintaxis, control de flujo, funciones, arrays, punteros, estructuras (`struct`) y una base sólida en gestión manual de memoria.
+> **C (1st year foundation)** — Syntax, control flow, functions, arrays, pointers, structures (`struct`), and a solid foundation in manual memory management.
 >
-> **Matemáticas y Física** — Las considero el motor fundamental para entender el hardware y optimizar software. Sólida base en Álgebra Lineal, Cálculo, Matemática Discreta y Fundamentos Físicos de la Informática. Me apasiona entender cómo funcionan las cosas desde su nivel más bajo.
+> **Mathematics and Physics** — I consider them the fundamental engine for understanding hardware and optimizing software. Solid foundation in Linear Algebra, Calculus, Discrete Mathematics, and Physical Foundations of Computer Science. I'm passionate about understanding how things work at their lowest level.
 
 ---
 
-### `// IN PROGRESS · LO QUE ESTOY APRENDIENDO`
+### `// IN PROGRESS · WHAT I'M LEARNING`
 
 <div align="center">
 
@@ -51,25 +51,25 @@
 
 </div>
 
-> **CUDA** — Primeros pasos en computación en GPU: escritura de *kernels*, gestión de memoria (`cudaMalloc` / `cudaMemcpy`) y modelo de ejecución paralela.
+> **CUDA** — First steps in GPU computing: writing *kernels*, memory management (`cudaMalloc` / `cudaMemcpy`), and the parallel execution model.
 >
-> **Java** — Programación orientada a objetos: modularidad, clases, herencia y polimorfismo.
+> **Java** — Object-oriented programming: modularity, classes, inheritance, and polymorphism.
 >
-> **SQL** — Diseño de esquemas relacionales y consultas esenciales.
+> **SQL** — Relational schema design and essential queries.
 >
-> **HTML5** — Estructuras y maquetación web básica.
+> **HTML5** — Basic web structures and layout.
 
 ---
 
-### `// DREAMS.UPLOAD · METAS Y PROYECTOS`
+### `// DREAMS.UPLOAD · GOALS AND PROJECTS`
 
-Aunque ahora mismo el foco está en dominar las bases, mi objetivo a largo plazo apunta hacia:
+Although the current focus is on mastering the basics, my long-term goal points toward:
 
 > **`> [ ] INTERACTIVE_MEDIA // GAME_DEV`**
-> Participar en el desarrollo de un videojuego con una narrativa profunda y un apartado gráfico de alto nivel. Referentes claros: *The Last of Us*,*Cyberpunk 2077* & *Resident Evil*. Me atrae la idea de fusionar tecnología puntera (gráficos, optimización, física) con historias que dejen huella.
+> Take part in the development of a video game with a deep narrative and top-tier visuals. Clear references: *The Last of Us*, *Cyberpunk 2077* & *Resident Evil*. I'm drawn to the idea of merging cutting-edge technology (graphics, optimization, physics) with stories that leave a mark.
 
 > **`> [ ] UTILITY_SOFTWARE // IMPACT`**
-> Crear aplicaciones útiles que ayuden a la gente. El software es una herramienta poderosa y quiero que mi código tenga un impacto positivo y real en el día a día de las personas.
+> Create useful applications that help people. Software is a powerful tool and I want my code to have a positive, real impact on people's daily lives.
 
 ---
 
@@ -80,11 +80,3 @@ Aunque ahora mismo el foco está en dominar las bases, mi objetivo a largo plazo
 </div>
 
 ---
-
-<div align="center">
-  <code>▸ Aprender para comprender. ◂</code>
-  <br><br>
-  <code>▸ ¿Qué seríamos sin conocimiento? ◂</code>
-  <br><br>
-  <code>END OF TRANSMISSION · NIGHT CITY 2077</code>
-</div>
