@@ -24,47 +24,47 @@
 
 ---
 
-### `// SKILLS.INSTALLED`
+### `// UNLOCKED · LO QUE YA MANEJO`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-**`C · CUDA`** &nbsp; `// ONLINE`
-![C](https://img.shields.io/badge/C-0D0208?style=for-the-badge&logo=c&logoColor=00F0FF)
-![CUDA](https://img.shields.io/badge/CUDA-0D0208?style=for-the-badge&logo=nvidia&logoColor=76B900)
+![C](https://img.shields.io/badge/C-SOLID-FCEE0A?style=for-the-badge&labelColor=0D0208&logo=c&logoColor=FCEE0A)
+![CUDA](https://img.shields.io/badge/CUDA-SOLID-FCEE0A?style=for-the-badge&labelColor=0D0208&logo=nvidia&logoColor=FCEE0A)
 
-> Punteros, gestión manual de memoria (`malloc` / `cudaMalloc`) y primeros hilos en GPU.
+</div>
 
-</td>
-<td width="50%" valign="top">
+> **C** — sintaxis, punteros, gestión manual de memoria (`malloc` / `free`), estructuras y aritmética de punteros.
+>
+> **CUDA** — modelo de ejecución en GPU, kernels básicos, `cudaMalloc` / `cudaMemcpy`, primer contacto con hilos y bloques.
 
-**`JAVA`** &nbsp; `// LOADING`
-![Java](https://img.shields.io/badge/Java-0D0208?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+---
 
-> Modularidad, clases, herencia y polimorfismo.
+### `// IN PROGRESS · LO QUE ESTOY APRENDIENDO`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-**`SQL`** &nbsp; `// LINKED`
-![SQL](https://img.shields.io/badge/SQL-0D0208?style=for-the-badge&logo=postgresql&logoColor=00F0FF)
+![Java](https://img.shields.io/badge/JAVA-LOADING-00F0FF?style=for-the-badge&labelColor=0D0208&logo=openjdk&logoColor=00F0FF)
+![SQL](https://img.shields.io/badge/SQL-LOADING-00F0FF?style=for-the-badge&labelColor=0D0208&logo=postgresql&logoColor=00F0FF)
+![HTML5](https://img.shields.io/badge/HTML5-LOADING-00F0FF?style=for-the-badge&labelColor=0D0208&logo=html5&logoColor=00F0FF)
 
-> Diseño de esquemas relacionales y consultas esenciales.
+</div>
 
-</td>
-<td width="50%" valign="top">
+> **Java** — programación orientada a objetos: clases, herencia, polimorfismo, encapsulación y modularidad.
+>
+> **SQL** — diseño de esquemas relacionales, normalización y consultas esenciales (`JOIN`, `GROUP BY`, subconsultas).
+>
+> **HTML5** — estructura semántica, maquetación básica y primeras nociones de CSS.
 
-**`HTML5`** &nbsp; `// CONNECTED`
-![HTML5](https://img.shields.io/badge/HTML5-0D0208?style=for-the-badge&logo=html5&logoColor=FF003C)
+---
 
-> Estructuras y maquetación web básica.
+### `// NEXT UNLOCKS`
 
-</td>
-</tr>
-</table>
+| Estado | Skill | Cuándo |
+|:---:|:---|:---:|
+| `[ ]` | Algoritmos y estructuras de datos avanzadas | semestre 3 |
+| `[ ]` | Sistemas operativos | semestre 3 |
+| `[ ]` | Redes y concurrencia | semestre 4 |
+| `[ ]` | Proyecto CUDA de mayor escala | pendiente |
 
 ---
 
