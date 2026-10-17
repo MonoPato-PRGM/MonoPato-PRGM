@@ -1,4 +1,4 @@
-# ¡Hola! Soy MonoPato 👋 🦆🐵
+# ¡Buenas, soy Mario!
 
 Estudiante de **2.º año de Ingeniería Informática** en la **Universidad de Burgos (UBU)**. Apasionado por entender cómo funcionan los sistemas por dentro, optimizar código y construir proyectos paso a paso.
 
