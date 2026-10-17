@@ -30,7 +30,7 @@
 
 ![C](https://img.shields.io/badge/C-SOLID-FCEE0A?style=for-the-badge&labelColor=0D0208&logo=c&logoColor=FCEE0A)
 ![Math](https://img.shields.io/badge/MATHS-SOLID-FCEE0A?style=for-the-badge&labelColor=0D0208&logo=wolframmathematica&logoColor=FCEE0A)
-![Physics](https://img.shields.io/badge/PHYSICS-SOLID-FCEE0A?style=for-the-badge&labelColor=0D0208&logo=physics&logoColor=FCEE0A)
+![Physics](https://img.shields.io/badge/PHYSICS-BASIC-FCEE0A?style=for-the-badge&labelColor=0D0208&logo=physics&logoColor=FCEE0A)
 
 </div>
 
@@ -66,21 +66,10 @@
 Aunque ahora mismo el foco está en dominar las bases, mi objetivo a largo plazo apunta hacia:
 
 > **`> [ ] INTERACTIVE_MEDIA // GAME_DEV`**
-> Participar en el desarrollo de un videojuego con una narrativa profunda y un apartado gráfico de alto nivel. Referente claro: *The Last of Us*. Me atrae la idea de fusionar tecnología puntera (gráficos, optimización, física) con historias que dejen huella.
+> Participar en el desarrollo de un videojuego con una narrativa profunda y un apartado gráfico de alto nivel. Referentes claros: *The Last of Us*,*Cyberpunk 2077* & *Resident Evil*. Me atrae la idea de fusionar tecnología puntera (gráficos, optimización, física) con historias que dejen huella.
 
 > **`> [ ] UTILITY_SOFTWARE // IMPACT`**
 > Crear aplicaciones útiles que ayuden a la gente. El software es una herramienta poderosa y quiero que mi código tenga un impacto positivo y real en el día a día de las personas.
-
----
-
-### `// NEXT UNLOCKS`
-
-| Estado | Skill | Cuándo |
-|:---:|:---|:---:|
-| `[ ]` | Algoritmos y estructuras de datos avanzadas | semestre 3 |
-| `[ ]` | Sistemas operativos | semestre 3 |
-| `[ ]` | Redes y concurrencia | semestre 4 |
-| `[ ]` | Proyecto CUDA de mayor escala | pendiente |
 
 ---
 
