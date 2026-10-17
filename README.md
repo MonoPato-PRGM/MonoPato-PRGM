@@ -1,36 +1,28 @@
-# ¡Buenas, soy Mario!
+# ¡Hola! Soy MonoPato 👋 🦆🐵
 
-Estudiante de **2.º año de Ingeniería Informática** en la **Universidad de Burgos (UBU)**. Apasionado por entender cómo funcionan los sistemas por dentro, optimizar código y construir proyectos paso a paso.
-
----
-
-### 💻 Stack & Tecnologías
-
-**Lenguajes & Bases de Datos:**
-- ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) Fundamentos sólidos, memoria dinámica y estructuras de datos.
-- ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white) Aprendiendo...
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) Aprendiendo...
-- ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) Aprendiendo...
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) Maquetación web para proyectos sencillos y funcionales.
+Estudiante de **2.º año de Ingeniería Informática** en la **Universidad de Burgos (UBU)**.  
+Actualmente enfocado en aprender los fundamentos de la programación, entender cómo interactúa el software con el hardware y construir proyectos paso a paso.
 
 ---
 
-### 🚀 Actualmente enfocado en:
-- Profundizar en arquitectura de software y POO mediante Java.
-- Experimentar con CUDA para acelerar cálculos con C.
-- Consolidar buenas prácticas con Git y flujo de trabajo en equipo.
+### 🌱 ¿Qué estoy aprendiendo ahora mismo?
+
+* **C & CUDA:** Tras ver los fundamentos de C en 1.º, ahora estoy descubriendo la memoria dinámica (`malloc`/`free`, `cudaMalloc`), punteros y los conceptos básicos de computación paralela en GPU.
+* **Java:** Dando mis primeros pasos con la Programación Orientada a Objetos (clases, herencia y modularidad).
+* **SQL:** Aprendiendo a diseñar esquemas y escribir consultas para bases de datos relacionales.
+* **HTML:** Nociones básicas para estructurar páginas web sencillas.
 
 ---
 
-### 📊 GitHub Stats
+### 📂 ¿Qué encontrarás por aquí?
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MonoPato&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonoPato&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" width="45%" />
-</div>
+* Prácticas y ejercicios de clase de la universidad.
+* Pequeños programas y pruebas de concepto según voy explorando C, CUDA y Java.
+* Mis primeros pasos en Git y control de versiones.
 
 ---
 
-<p align="center">
-  <i>"Aprender para no depender."</i>
-</p>
+### 🎯 Filosofía
+
+> *«Aprender para comprender.»*  
+> *(Y no frustrarse cuando salta un Segmentation Fault).*
