@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:050811,100:1a0b2e&stroke=ff007f&strokeWidth=2&height=180&section=header&text=PLAYER:%20MonoPato&fontSize=44&fontAlignY=40&desc=%3C%20INITIALIZING%20SYSTEM...%20GPU_KERNEL::ONLINE%20%3E&descFontSize=15&descAlignY=66&fontColor=00f2fe" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:050811,100:1a0b2e&stroke=ff007f&strokeWidth=2&height=180&section=header&text=PLAYER:%20MonoPato&fontSize=44&fontAlignY=40&desc=[%20INITIALIZING%20SYSTEM...%20GPU_KERNEL::ONLINE%20]&descFontSize=15&descAlignY=66&fontColor=00f2fe" width="100%" />
 </div>
 
 <br>
