@@ -82,7 +82,9 @@ Aunque ahora mismo el foco está en dominar las bases, mi objetivo a largo plazo
 ---
 
 <div align="center">
-  <code>▸ aprender para comprender ◂</code>
+  <code>▸ Aprender para comprender. ◂</code>
+  <br><br>
+  <code>▸ ¿Qué seríamos sin conocimiento? ◂</code>
   <br><br>
   <code>END OF TRANSMISSION · NIGHT CITY 2077</code>
 </div>
