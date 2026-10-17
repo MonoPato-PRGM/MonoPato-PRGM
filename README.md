@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0208,50:FF003C,100:FCEE0A&height=150&section=header&text=MONO%20PATO&fontSize=50&fontColor=FCEE0A&fontAlignY=42&desc=%3E%3E%20NIGHT%20CITY%20NETRUNNER&descAlignY=65&descSize=14&descColor=00F0FF" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0208,50:FF003C,100:FCEE0A&height=150&section=header&text=MONO%20PATO&fontSize=50&fontColor=FCEE0A&fontAlignY=42&desc=%20NETRUNNER&descAlignY=65&descSize=14&descColor=00F0FF" width="100%" />
 </div>
 
 <div align="center">
@@ -20,7 +20,7 @@
 
 ### `// OBJECTIVE`
 
-> Dominar los fundamentos de la computación, entender cómo interactúa el software con el hardware y farmear experiencia compilación a compilación.
+> Dominar los fundamentos de la computación, entender cómo interactúa el software con el hardware y ganar experiencia compilación a compilación.
 
 ---
 
