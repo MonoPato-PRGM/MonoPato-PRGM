@@ -29,10 +29,14 @@
 <div align="center">
 
 ![C](https://img.shields.io/badge/C-SOLID-FCEE0A?style=for-the-badge&labelColor=0D0208&logo=c&logoColor=FCEE0A)
+![Math](https://img.shields.io/badge/MATHS-SOLID-FCEE0A?style=for-the-badge&labelColor=0D0208&logo=wolframmathematica&logoColor=FCEE0A)
+![Physics](https://img.shields.io/badge/PHYSICS-SOLID-FCEE0A?style=for-the-badge&labelColor=0D0208&logo=physics&logoColor=FCEE0A)
 
 </div>
 
-> **C (nivel primero de carrera)** — Base sólida adquirida en asignaturas como *Programación I* de la UBU: sintaxis, tipos de datos, estructuras de control (condicionales y bucles), funciones, arrays, **punteros**, **estructuras (`struct`)** y una introducción al manejo de **ficheros** y memoria dinámica básica.
+> **C (Base de 1º de carrera)** — Sintaxis, control de flujo, funciones, arrays, punteros, estructuras (`struct`) y una base sólida en gestión manual de memoria.
+>
+> **Matemáticas y Física** — Las considero el motor fundamental para entender el hardware y optimizar software. Sólida base en Álgebra Lineal, Cálculo, Matemática Discreta y Fundamentos Físicos de la Informática. Me apasiona entender cómo funcionan las cosas desde su nivel más bajo.
 
 ---
 
@@ -47,13 +51,25 @@
 
 </div>
 
-> **CUDA** — primeros pasos en computación en GPU: escritura y lanzamiento de **kernels**, gestión de memoria de dispositivo (`cudaMalloc` / `cudaMemcpy`), y modelo de ejecución con hilos, bloques y grids.
+> **CUDA** — Primeros pasos en computación en GPU: escritura de *kernels*, gestión de memoria (`cudaMalloc` / `cudaMemcpy`) y modelo de ejecución paralela.
 >
-> **Java** — programación orientada a objetos: clases, herencia, polimorfismo, encapsulación y modularidad.
+> **Java** — Programación orientada a objetos: modularidad, clases, herencia y polimorfismo.
 >
-> **SQL** — diseño de esquemas relacionales, normalización y consultas esenciales (`JOIN`, `GROUP BY`, subconsultas).
+> **SQL** — Diseño de esquemas relacionales y consultas esenciales.
 >
-> **HTML5** — estructura semántica, maquetación básica y primeras nociones de CSS.
+> **HTML5** — Estructuras y maquetación web básica.
+
+---
+
+### `// DREAMS.UPLOAD · METAS Y PROYECTOS`
+
+Aunque ahora mismo el foco está en dominar las bases, mi objetivo a largo plazo apunta hacia:
+
+> **`> [ ] INTERACTIVE_MEDIA // GAME_DEV`**
+> Participar en el desarrollo de un videojuego con una narrativa profunda y un apartado gráfico de alto nivel. Referente claro: *The Last of Us*. Me atrae la idea de fusionar tecnología puntera (gráficos, optimización, física) con historias que dejen huella.
+
+> **`> [ ] UTILITY_SOFTWARE // IMPACT`**
+> Crear aplicaciones útiles que ayuden a la gente. El software es una herramienta poderosa y quiero que mi código tenga un impacto positivo y real en el día a día de las personas.
 
 ---
 
