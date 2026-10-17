@@ -1,31 +1,31 @@
-# ¡Hola! Soy MonoPato 👋 🦆🐵
+# MonoPato
 
-Estudiante de **2.º año de Ingeniería Informática** en la **Universidad de Burgos (UBU)**.  
-Actualmente enfocado en asimilar bien los fundamentos, entender cómo se conecta el software con el hardware y construir proyectos paso a paso mientras aprendo.
+**Clase:** Estudiante de Ingeniería Informática (Nivel 2)  
+**Zona actual:** Universidad de Burgos (UBU)  
+
+En proceso de subir de nivel los fundamentos: entendiendo cómo interactúa el software con el hardware y farmeando experiencia proyecto a proyecto.
 
 ---
 
-### 🛠️ Desbloqueando...
+### Árbol de Habilidades (Desbloqueando...)
 
 **C & Computación en GPU:**  
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) 
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)  
-> Vistos los fundamentos en 1.º; ahora explorando punteros, memoria dinámica (`malloc`/`cudaMalloc`) y los primeros pasos en computación paralela.
+> Fundamentos completados en el Nivel 1. Desbloqueando punteros, memoria dinámica (`malloc`/`cudaMalloc`) y primeros hilos en GPU.
 
 **Programación Orientada a Objetos:**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-> Dando los primeros pasos con POO (clases, herencia y modularidad).
+> Primeros pasos en POO: modularidad, clases y herencia.
 
 **Bases de Datos:**  
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-> Aprendiendo diseño de esquemas y consultas relacionales básicas.
+> Aprendiendo diseño de esquemas relacionales y consultas básicas.
 
-**Web Básica:**  
+**Desarrollo Web:**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-> Nociones básicas para estructurar páginas sencillas.
-
-
+> Estructuras y maquetación web básica.
 
 ---
 
-> *«Aprender para comprender.»*  
+> *«Aprender para comprender.»*
