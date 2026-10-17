@@ -29,13 +29,10 @@
 <div align="center">
 
 ![C](https://img.shields.io/badge/C-SOLID-FCEE0A?style=for-the-badge&labelColor=0D0208&logo=c&logoColor=FCEE0A)
-![CUDA](https://img.shields.io/badge/CUDA-SOLID-FCEE0A?style=for-the-badge&labelColor=0D0208&logo=nvidia&logoColor=FCEE0A)
 
 </div>
 
-> **C** — sintaxis, punteros, gestión manual de memoria (`malloc` / `free`), estructuras y aritmética de punteros.
->
-> **CUDA** — modelo de ejecución en GPU, kernels básicos, `cudaMalloc` / `cudaMemcpy`, primer contacto con hilos y bloques.
+> **C (nivel primero de carrera)** — Base sólida adquirida en asignaturas como *Programación I* de la UBU: sintaxis, tipos de datos, estructuras de control (condicionales y bucles), funciones, arrays, **punteros**, **estructuras (`struct`)** y una introducción al manejo de **ficheros** y memoria dinámica básica.
 
 ---
 
@@ -43,12 +40,15 @@
 
 <div align="center">
 
+![CUDA](https://img.shields.io/badge/CUDA-LOADING-00F0FF?style=for-the-badge&labelColor=0D0208&logo=nvidia&logoColor=00F0FF)
 ![Java](https://img.shields.io/badge/JAVA-LOADING-00F0FF?style=for-the-badge&labelColor=0D0208&logo=openjdk&logoColor=00F0FF)
 ![SQL](https://img.shields.io/badge/SQL-LOADING-00F0FF?style=for-the-badge&labelColor=0D0208&logo=postgresql&logoColor=00F0FF)
 ![HTML5](https://img.shields.io/badge/HTML5-LOADING-00F0FF?style=for-the-badge&labelColor=0D0208&logo=html5&logoColor=00F0FF)
 
 </div>
 
+> **CUDA** — primeros pasos en computación en GPU: escritura y lanzamiento de **kernels**, gestión de memoria de dispositivo (`cudaMalloc` / `cudaMemcpy`), y modelo de ejecución con hilos, bloques y grids.
+>
 > **Java** — programación orientada a objetos: clases, herencia, polimorfismo, encapsulación y modularidad.
 >
 > **SQL** — diseño de esquemas relacionales, normalización y consultas esenciales (`JOIN`, `GROUP BY`, subconsultas).
